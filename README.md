@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os habitos é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://ranieripaiva.github.io/nlw-setup)
 
 ## 🔖 Layout
 
